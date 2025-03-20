@@ -11,7 +11,7 @@ A passionate **Full-Stack Developer** specializing in the **MERN stack** with ex
 
 Let's connect and build something amazing together! 🚀
 
-<div class="container">
+<div align="left">
   <h6>GitHub Profile Visits</h6>
   <img src="https://komarev.com/ghpvc/?username=vignesh2409&color=blue" alt="Profile Views">
 </div>
@@ -67,7 +67,7 @@ Let's connect and build something amazing together! 🚀
 
 ## 📊 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vignesh2409&theme=default&hide_border=false&include_all_commits=false&count_private=false)
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=vignesh2409&theme=default&hide_border=false)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vignesh2409&theme=default&hide_border=false)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vignesh2409&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🎓 Education:
@@ -95,4 +95,4 @@ Let's connect and build something amazing together! 🚀
 - **Outcome**: Successfully deployed an interactive platform providing smooth user experience.
 
 ---
-[![Profile Visits](https://visitcount.itsvg.in/api?id=vignesh2409&icon=0&color=0)](https://visitcount.itsvg.in)
+![Profile Visits](https://visitcount.itsvg.in/api?id=vignesh2409&icon=0&color=0)
