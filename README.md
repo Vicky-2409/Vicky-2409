@@ -110,7 +110,7 @@ I'm a passionate **Full-Stack Developer** specializing in the **MERN stack** wit
   - Shopping cart and wishlist functionality
   - Secure payment gateway integration
   - Order tracking and management
-- **GitHub**: [View Project](https://github.com/Vicky-2409/Boarding-Practice-Backend)
+- **GitHub**: [View Project](https://github.com/Vicky-2409/Shopify)
 
 ## 🎓 Education
 
