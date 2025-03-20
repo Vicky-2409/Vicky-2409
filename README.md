@@ -85,7 +85,7 @@ I'm a passionate **Full-Stack Developer** specializing in the **MERN stack** wit
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Vicky-2409&repo=SocialConnect&theme=tokyonight" />
   </a>
   <a href="https://github.com/Vicky-2409/Shopify">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Vicky-2409&repo=BShopify&theme=tokyonight" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Vicky-2409&repo=Shopify&theme=tokyonight" />
   </a>
 </div>
 
