@@ -1,4 +1,4 @@
-![Banner](https://raw.githubusercontent.com/vignesh2409/vignesh2409/main/github-banner.gif)
+![Banner](https://raw.githubusercontent.com/vignesh2409/vignesh2409/main/github-banner.png)
 
 <p align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=400&size=30&pause=1000&color=FFFFFF&width=435&lines=Hi+there%2C+I'm+Vignesh!+%f0%9f%94%a5" alt="Hi there, I'm Vignesh!">
