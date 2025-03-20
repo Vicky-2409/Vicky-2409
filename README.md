@@ -1,14 +1,6 @@
 ![Banner](https://github.com/Vicky-2409/Vicky-2409/blob/main/github-banner.png?raw=true)
 
-
 # Hi there, I'm Vignesh 🔥
-
-
-
-
-
-
-
 
 # 💫 About Me:
 A passionate **Full-Stack Developer** specializing in the **MERN stack** with expertise in **React.js**, **Node.js**, and **MongoDB**. I focus on building scalable web applications with modern microservice architecture and RESTful APIs.
@@ -71,11 +63,6 @@ Let's connect and build something amazing together! 🚀
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
 
-## 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vignesh2409&theme=default&hide_border=false&include_all_commits=false&count_private=false)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vignesh2409&theme=default&hide_border=false)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vignesh2409&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 ## 🎓 Education:
 - **B.Tech (Information Technology)**: Hindusthan College of Engineering, Coimbatore  
   CGPA: 8.09 | Year: 2019–2023
@@ -99,6 +86,3 @@ Let's connect and build something amazing together! 🚀
 - **Description**: Fully functional e-commerce application with product search, sort, filter, and Razorpay payment integration.
 - **Technologies Used**: Node.js, MongoDB, Express.js, JavaScript, HTML, CSS, Bootstrap.
 - **Outcome**: Successfully deployed an interactive platform providing smooth user experience.
-
----
-![Profile Visits](https://visitcount.itsvg.in/api?id=vignesh2409&icon=0&color=0)
