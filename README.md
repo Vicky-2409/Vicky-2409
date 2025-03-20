@@ -1,8 +1,8 @@
 ![Banner](https://github.com/Vicky-2409/Vicky-2409/blob/main/github-banner.png?raw=true)
 
-<p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=400&size=30&pause=1000&color=FFFFFF&width=435&lines=Hi+there%2C+I'm+Vignesh!" alt="Hi there, I'm Vignesh!"> 🔥
-</p>
+
+Hi there, I'm Vignesh!"> 🔥
+
 
 
 
