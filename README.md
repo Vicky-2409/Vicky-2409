@@ -84,15 +84,15 @@ Let's connect and build something amazing together! 🚀
 
 ## 💼 Projects:
 
+### SocialConnect
+- **Description**: A scalable social media application with features like user posts, comments, and real-time notifications.
+- **Technologies Used**: Next.js, React, Redux, MongoDB, RabbitMQ, Node.js, Express.js.
+- **Outcome**: Successfully built a robust social media platform with scalable architecture and efficient performance.
+
 ### E-Commerce Platform
 - **Description**: Fully functional e-commerce application with product search, sort, filter, and Razorpay payment integration.
 - **Technologies Used**: Node.js, MongoDB, Express.js, JavaScript, HTML, CSS, Bootstrap.
 - **Outcome**: Successfully deployed an interactive platform providing smooth user experience.
-
-### SocialConnect (In Progress)
-- **Description**: Developing a scalable social media application with features like user posts, comments, and real-time notifications.
-- **Technologies Used**: Next.js, React, Redux, MongoDB, RabbitMQ, Node.js, Express.js.
-- **Expected Outcome**: A robust social media platform with scalable architecture and efficient performance.
 
 ---
 [![Profile Visits](https://visitcount.itsvg.in/api?id=vignesh2409&icon=0&color=0)](https://visitcount.itsvg.in)
