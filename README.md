@@ -63,6 +63,30 @@ Let's connect and build something amazing together! 🚀
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
 
+<h3 align="left">Other Skills :</h3>
+   <p align="left">
+       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" alt="blender" width="40" height="40" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" alt="photoshop" width="40" height="40"/>
+            <img src="https://img.icons8.com/?size=100&id=62397&format=png&color=000000" alt="solidworks" width="40" height="40" />
+   </p>
+   
+   <p align="left">
+      <a href="https://github.com/harishk2010/github-readme-stats">
+          <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=harishk2010&layout=compact&langs_count=8&card_width=320" />
+      </a>
+      <a href="https://github.com/harishk2010/convoychat">
+          <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=harishk2010&layout=compact&langs_count=8&card_width=320" />
+      </a>
+  </p>
+   <p align="left">
+      <a href="https://github.com/harishk2010/React-Basics-To-Advanced/">
+          <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=harishk2010&repo=React-Basics-To-Advanced" />
+      </a>
+      <a href="https://github.com/harishk2010/NewConsoleHaven">
+          <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=harishk2010&repo=NewConsoleHaven" />
+      </a>
+  </p>
+
 ## 🎓 Education:
 - **B.Tech (Information Technology)**: Hindusthan College of Engineering, Coimbatore  
   CGPA: 8.09 | Year: 2019–2023
