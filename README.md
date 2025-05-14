@@ -5,7 +5,7 @@
 <div align="center">
   <a href="https://linkedin.com/in/vigneshs2002"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://github.com/Vicky-2409"><img src="https://img.shields.io/badge/-GitHub-grey?style=flat-square&logo=Github&logoColor=white" alt="GitHub"></a>
-  <a href="mailto:vignesh2409@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="mailto:svignesh2409@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"></a>
   <img src="https://komarev.com/ghpvc/?username=Vicky-2409&color=blue" alt="Profile Views">
 </div>
 
@@ -17,7 +17,7 @@ I'm a passionate **Full-Stack Developer** specializing in the **MERN stack** wit
 - 🌱 Learning advanced concepts in **Next.js** and **Redux**
 - 💡 Self-taught developer with strong foundations in **JavaScript** and **TypeScript**
 - 🔍 Exploring system design and architecture patterns
-- 📫 Contact: vignesh2409@gmail.com | +91 9080287758
+- 📫 Contact: svignesh2409@gmail.com | +91 9080287758
 
 ## 🛠️ Tech Stack
 
@@ -135,7 +135,7 @@ I'm a passionate **Full-Stack Developer** specializing in the **MERN stack** wit
 
 I'm always interested in collaborating on exciting projects and opportunities. Feel free to reach out!
 
-- **Email**: vignesh2409@gmail.com
+- **Email**: svignesh2409@gmail.com
 - **LinkedIn**: [vigneshs2002](https://linkedin.com/in/vigneshs2002)
 - **Phone**: +91 9080287758
 
